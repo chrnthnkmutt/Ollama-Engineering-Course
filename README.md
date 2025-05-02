@@ -1,6 +1,6 @@
 # 🧠 LLM Engineering Essentials with Ollama Course Template
 
-by Charunthon Limseelo
+by Charunthon Limseelo and Collaborators
 
 ### 🔧 Quick Start with Ollama
 
