@@ -1,10 +1,6 @@
-Certainly! Here's the revised course announcement, tailored to focus on Ollama and self-hosted LLMs:
+# 🧠 LLM Engineering Essentials with Ollama Course Template
 
----
-
-## 🧠 LLM Engineering Essentials with Ollama Course Template
-
-### by Charunthon Limseelo
+by Charunthon Limseelo
 
 ---
 
