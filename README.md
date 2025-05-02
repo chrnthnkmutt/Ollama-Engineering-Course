@@ -16,7 +16,6 @@ Dive into hands-on experience with Ollama, an open-source platform that allows y
 
 * Understand the fundamentals of LLMs and how to interact with them using Ollama OpenAI's API.
 * Learn prompt strategies and address common challenges in LLM usage.
-  **Project**: Create a chatbot and deploy it using Ollama's local hosting capabilities.
 
 #### Topic 2️⃣: LLM Workflows
 
