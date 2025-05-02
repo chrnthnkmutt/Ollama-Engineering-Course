@@ -2,13 +2,9 @@
 
 by Charunthon Limseelo
 
----
-
 ### 🔧 Quick Start with Ollama
 
 Dive into hands-on experience with Ollama, an open-source platform that allows you to run large language models (LLMs) locally on your machine. Utilize its REST API to build, experiment, and deploy your own AI-powered applications without relying on external services.
-
----
 
 ### 🗺️ Course Roadmap
 
@@ -29,23 +25,17 @@ Dive into hands-on experience with Ollama, an open-source platform that allows y
 
 The later section will be updated later.
 
----
-
 ### 📁 Course Materials
 
 All materials for each topic are organized in each folder. Please refer to the `README.md` for detailed instructions and further information.
 
 For any technical issues, ideas, or contributions, feel free to add an issue to the course repository.
 
----
-
 ### 🔗 Resources
 
 * Ollama Official Website: ([Ollama][1])
 * Ollama GitHub Repository: ([GitHub][2])
 * Ollama API Documentation: ([GitHub][3])
-
----
 
 Feel free to reach out if you have any questions or need further assistance!
 
